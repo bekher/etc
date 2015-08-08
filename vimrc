@@ -11,7 +11,7 @@ filetype indent on
 "set <PageDown>=<Ctrl-V>
 nnoremap <C-Y> <PageUp>
 nnoremap <C-J> <PageDown>
-set term=ansi
+set term=linux
 colo desert
 set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab
 set ruler
