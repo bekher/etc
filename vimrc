@@ -16,3 +16,8 @@ colo desert
 set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab
 set ruler
 set whichwrap+=<,>,h,l
+
+command Q q
+command Wq wq
+command WQ wq
+command W w
